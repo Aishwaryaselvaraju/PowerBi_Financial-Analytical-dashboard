@@ -1,4 +1,4 @@
-# PowerBi
+# PowerBi Project: Financial Analytical dashboard
 
 **1. Financial Analytical dashboard**
 

@@ -2,9 +2,9 @@
 
 **1. Financial Analytical dashboard**
 
-** Process:**
+**Process:**
 
-_ 1. Uderstanding the Problem
+_1. Uderstanding the Problem
  2. Data Collection
  3. Data  Understanding
  4. Data cleaning

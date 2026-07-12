@@ -21,10 +21,6 @@ _1. Uderstanding the Problem
 
 <img width="1316" height="424" alt="image" src="https://github.com/user-attachments/assets/d2b9ebb0-4f99-463d-89be-1c428b75ac0f" />
 
-**Visualization of data**
-
-<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/a4d63085-2d7c-46ca-b0b4-42bb42b75e19" />
-
 
 **IN PowerBI**
 

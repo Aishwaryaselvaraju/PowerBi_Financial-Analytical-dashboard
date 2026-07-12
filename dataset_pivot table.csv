@@ -1,0 +1,18 @@
+Row Labels,Max of Sales,,Row Labels,Max of Profit,,Row Labels,Max of Sales,,Row Labels,Count of Payment_Method
+Central,14062.32,,Accessories,5699.32,,A. Kumar,14191.07,,Bank Transfer,376
+East,14694.24,,Electronics,5486.17,,K. Das,13529.91,,Cash,401
+North,14404.06,,Furniture,5425.15,,M. Rao,14694.24,,Credit Card,396
+South,14191.07,,Office Supplies,5536.52,,N. Iyer,14062.32,,Debit Card,414
+West,13980.09,,Software,5446.76,,P. Singh,14306.27,,UPI,413
+Grand Total,14694.24,,Grand Total,5699.32,,R. Sharma,13702.19,,Grand Total,2000
+,,,,,,S. Patel,13879.96,,,
+,,,,,,V. Gupta,14404.06,,,
+,,,,,,Grand Total,14694.24,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Row Labels,Sum of Sales,,Average of Sales,,,Max of Profit,,,Min of Sales,
+Consumer,3008554.53,,6171.801405,,,5699.32,,,143.67,
+Corporate,3072382.49,,,,,,,,,
+Enterprise,3282537.78,,,,,,,,,
+Small Business,2980128.01,,,,,,,,,
+Grand Total,12343602.81,,,,,,,,,

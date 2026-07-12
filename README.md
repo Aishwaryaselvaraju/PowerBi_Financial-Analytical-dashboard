@@ -13,13 +13,14 @@ _1. Uderstanding the Problem
 
 **IN EXCEL**
 
-**Adding  Pivot Table To undertand the relationship between data**
-
-<img width="1087" height="378" alt="image" src="https://github.com/user-attachments/assets/93d44094-df55-45c5-a0c3-e3234c64e9ea" />
-
 **Removing unwanted colomn & Adding new column**
 
 <img width="1316" height="424" alt="image" src="https://github.com/user-attachments/assets/d2b9ebb0-4f99-463d-89be-1c428b75ac0f" />
+
+
+**Adding  Pivot Table To undertand the relationship between data**
+
+<img width="1087" height="378" alt="image" src="https://github.com/user-attachments/assets/93d44094-df55-45c5-a0c3-e3234c64e9ea" />
 
 
 **IN PowerBI**
